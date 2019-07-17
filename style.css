@@ -243,13 +243,10 @@ span.intro {
       max-width: 100%;
       text-align: center;
       margin: auto;
-    }
-  
-    .  div#sales .container .row .arriba img{
-        vertical-align: top;
-    }
-  
-  }
+    ¨
+    
+}
+    
   
   
   @media (min-width: 992px) and (max-width: 1199.98px) {
@@ -264,6 +261,8 @@ span.intro {
         display: none;
       }
   }
+  
+
   
 
 
